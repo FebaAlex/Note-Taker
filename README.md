@@ -37,3 +37,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 # Links
 
 https://github.com/FebaAlex/Note-Taker.git
+
+# Landing Page 
+https://drive.google.com/file/d/12-Z_tHf2YK43Vkv-z_gABcVyip2KcYkQ/view
